@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { Menu, X, Home } from "lucide-react";
+import { Menu, X, Home, Youtube } from "lucide-react";
 
 export default function Header() {
   const [isScrolled, setIsScrolled] = useState(false);
@@ -59,7 +59,13 @@ export default function Header() {
       ]
     },
     { id: "menu3", label: "Free Software", href: "/software" },
-    { id: "menu4", label: "Youtube", href: "https://www.youtube.com/@astrologytemple" },
+    { 
+      id: "menu4", 
+      label: "Youtube", 
+      href: "https://www.youtube.com/@astrologytemple",
+      icon: <Youtube className="w-4 h-4" />,
+      className: "text-[#FF0000] hover:text-[#CC0000] font-black"
+    },
     { id: "menu5", label: "Free Panchangam", href: "https://youtu.be/nkuhjHEvuW8" },
     { id: "menu6", label: "Devotional Songs", href: "https://www.youtube.com/watch?v=nEDbHnYsKSY&list=PLXoiyvGD4QuPL-waGa63YgMmVH9uDP7LZ" }
 
@@ -103,7 +109,7 @@ export default function Header() {
                 <div key={link.id} className="relative group/menu py-2">
                   <a
                     href={link.href}
-                    className="text-[11px] font-semibold uppercase tracking-widest text-slate-500 hover:text-primary transition-all duration-200 flex items-center gap-1 cursor-pointer"
+                    className={`text-[11px] font-semibold uppercase tracking-widest transition-all duration-200 flex items-center gap-1 cursor-pointer ${link.className || "text-slate-500 hover:text-primary"}`}
                   >
                     {link.icon && <span className="mr-0.5">{link.icon}</span>}
                     <span>{link.label}</span>
@@ -159,7 +165,7 @@ export default function Header() {
                 <a
                   href={link.href}
                   onClick={() => setIsMobileMenuOpen(false)}
-                  className="text-xs font-semibold uppercase tracking-widest text-slate-600 hover:text-primary flex items-center gap-2"
+                  className={`text-xs font-semibold uppercase tracking-widest flex items-center gap-2 ${link.className || "text-slate-600 hover:text-primary"}`}
                 >
                   {link.icon && <span>{link.icon}</span>}
                   <span>{link.label}</span>
