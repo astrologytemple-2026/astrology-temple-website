@@ -131,7 +131,7 @@ export default function App() {
                       Astrologer N.Ravi Rangaswamee., <br className="md:hidden" /> M.A., PG.D.E.A.,<br className="hidden md:block" />
                       <br className="md:hidden" /> Astrological Compatibility Research, Training & Prediction Professional..<br className="hidden md:block" />
                       Astrology, Horoscope, Numerology, Nameology, Vaasthu, <br className="md:hidden" /> Marriage Matching,<br className="hidden md:block" /> Parikaaram @ Remedy<br className="hidden md:block" />
-                      Accurate Astrology Calculations and Predictions. Updated Astrology.<br className="hidden md:block" /> <br className="md:hidden" /> Reformed Astrology. +91 9942684099, astrologytemple@gmail.com
+                      Accurate Astrology Calculations and Predictions. Updated Astrology.<br className="hidden md:block" /> <br className="md:hidden" /> Reformed Astrology. +91 9942684099, <span className="lowercase">astrologytemple@gmail.com</span>
                     </p>
 
                     <p className="font-bold text-[#7D0000]">
@@ -149,7 +149,7 @@ export default function App() {
 
                     <p className="font-bold text-[#00571D]">
                       Accurate Current 360--&gt;365[365.25]366 Days?!.. Dasaa Bhukthi Antharam Chart for 120 years from <br className="md:hidden" /> Birth Date, Time and Dasaa Years-Months-Days-Hrs:Mints:Seconds Balance,<br className="hidden md:block" /> 16 A4 Pages.. <br className="md:hidden" /> Multi Lingual.. INRs 100 Only..<br className="hidden md:block" />
-                      <br className="md:hidden" /> Contact: +91 9942684099, astrologytemple@gmail.com
+                      <br className="md:hidden" /> Contact: +91 9942684099, <span className="lowercase">astrologytemple@gmail.com</span>
                     </p>
 
                     <div className="pt-2 font-bold text-[#000BD1]">
@@ -165,7 +165,7 @@ export default function App() {
                     </p>
 
                     <p className="font-bold text-[#5E005E]">
-                      Manually Calculated <br className="md:hidden" /> ( based on your birth star - begin and finish ) <br className="md:hidden" /> Accurate Current <br className="hidden md:block" /> 360--&gt;365[365.25]366 Days?!.. <br className="md:hidden" /> Dasaa Bhukthi Antharam Chart for 120 years from Birth Date, <br className="hidden md:block" /> Time and Dasaa Years-Months-Days-Hrs:Mints:Seconds Balance.. +91 9942684099, astrologytemple@gmail.com
+                      Manually Calculated <br className="md:hidden" /> ( based on your birth star - begin and finish ) <br className="md:hidden" /> Accurate Current <br className="hidden md:block" /> 360--&gt;365[365.25]366 Days?!.. <br className="md:hidden" /> Dasaa Bhukthi Antharam Chart for 120 years from Birth Date, <br className="hidden md:block" /> Time and Dasaa Years-Months-Days-Hrs:Mints:Seconds Balance.. +91 9942684099, <span className="lowercase">astrologytemple@gmail.com</span>
                     </p>
 
                     <div className="pt-2 font-bold text-[#000BD1]">
@@ -177,7 +177,7 @@ export default function App() {
                     </div>
 
                     <p className="font-bold text-[#857000]">
-                      For all the Horoscopes which are Created Using Computer, Thirukkanitham, Vaakkiyam & All Other Panchangams in Practice, Accurate Current <br className="md:hidden" /> 360--&gt;365[365.25]366 Days?! Dasaa Bhukthi Antharam Chart for 120 Years From Date of Birth,Time & Horoscope Dasaa Yrs-Ms-Ds-Hrs:Ms:Ss Balance. Multi Lingual. 16 A4 pages.. +91 9942684099, astrologytemple@gmail.com <br className="hidden md:block" /> Thanks.. All the best.
+                      For all the Horoscopes which are Created Using Computer, Thirukkanitham, Vaakkiyam & All Other Panchangams in Practice, Accurate Current <br className="md:hidden" /> 360--&gt;365[365.25]366 Days?! Dasaa Bhukthi Antharam Chart for 120 Years From Date of Birth,Time & Horoscope Dasaa Yrs-Ms-Ds-Hrs:Ms:Ss Balance. Multi Lingual. 16 A4 pages.. +91 9942684099, <span className="lowercase">astrologytemple@gmail.com</span> <br className="hidden md:block" /> Thanks.. All the best.
                     </p>
                   </div>
                 </div>
