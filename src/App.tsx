@@ -161,7 +161,7 @@ export default function App() {
                     </div>
 
                     <p className="font-bold text-[#5E005E]">
-                      தவறு.. கம்ப்யூட்டர் ஜாதக தசா இருப்பு <br className="md:hidden" /> வரு - மாத- நாள் & தொடர் தசாபுத்தி தேதிகளும் தவறு.. எனவே, நீங்கள் பிறந்த நட்சத்திரத்தின் 'ஆதி அந்த' மொத்த நேரத்தை கணக்கிலெடுத்துக் கொண்டு மிகச்சரியான தசா இருப்பு <br className="hidden md:block" /> வரு - மாத- நாள்- <br className="md:hidden" /> மணி: நிமிடம்: வினாடி கணக்கிட்டு <br className="hidden md:block" /> <br className="md:hidden" /> 120 ஆண்டுகளுக்கு மிகச்சரியான <br className="md:hidden" /> 360-&gt;365[365.25]366 days?! <br className="hidden md:block" /> நடப்பு தசாபுத்தி அந்தர அட்டவணை ரூ.700, 16 A4 Pages.. Multi Lingual.. <br className="hidden md:block" /> <br className="hidden md:block" /> பெற Contact : +91 9942684099
+                      தவறு.. கம்ப்யூட்டர் ஜாதக தசா இருப்பு <br className="md:hidden" /> வரு - மாத- நாள் & தொடர் தசாபுத்தி தேதிகளும் தவறு.. எனவே, நீங்கள் பிறந்த நட்சத்திரத்தின் 'ஆதி அந்த' மொத்த நேரத்தை கணக்கிலெடுத்துக் கொண்டு மிகச்சரியான தசா இருப்பு <br className="hidden md:block" /> வரு - மாத- நாள்- <br className="md:hidden" /> மணி: நிமிடம்: வினாடி கணக்கிட்டு <br className="hidden md:block" /> <br className="md:hidden" /> 120 ஆண்டுகளுக்கு மிகச்சரியான <br className="md:hidden" /> 360-&gt;365[365.25]366 days?! <br className="hidden md:block" /> நடப்பு தசாபுத்தி அந்தர அட்டவணை ரூ.700, 16 A4 Pages.. <br className="md:hidden" /> Multi Lingual..<br className="hidden md:block" /> பெற Contact : +91 9942684099
                     </p>
 
                     <p className="font-bold text-[#5E005E]">
