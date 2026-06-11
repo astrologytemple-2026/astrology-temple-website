@@ -59,16 +59,16 @@ export default function Header() {
       ]
     },
     { id: "menu3", label: "Free Software", href: "/software" },
-    { 
-      id: "menu4", 
-      label: "Youtube", 
+    {
+      id: "menu4",
+      label: "Youtube",
       href: "https://www.youtube.com/@astrologytemple",
       icon: <Youtube className="w-4 h-4" />,
       className: "text-[#FF0000] hover:text-[#CC0000] font-black"
     },
     { id: "menu5", label: "Free Panchangam", href: "https://youtu.be/nkuhjHEvuW8" },
-    { id: "menu6", label: "Devotional Songs", href: "https://www.youtube.com/watch?v=nEDbHnYsKSY&list=PLXoiyvGD4QuPL-waGa63YgMmVH9uDP7LZ" }
-
+    { id: "menu6", label: "Devotional Songs", href: "https://www.youtube.com/watch?v=nEDbHnYsKSY&list=PLXoiyvGD4QuPL-waGa63YgMmVH9uDP7LZ" },
+    { id: "menu7", label: "Author", href: "/author" }
   ];
 
   return (

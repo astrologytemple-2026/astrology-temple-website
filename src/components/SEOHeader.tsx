@@ -10,7 +10,7 @@ interface SEOHeaderProps {
 
 export default function SEOHeader({
   title = "Astrologer Ravi Rangaswamee Chennai,Online Astrologer, Astrology Temple",
-  description = "Consult Chennai's leading Astrologer Ravi Rangaswamee in Vadapalani for accurate 120 Years Dasaa Bhukthi Antharam Charts, Horoscope, Numerology, Vaasthu, and precise Parikaaram remedies.",
+  description = "Consult Chennai's leading Astrologer Ravi Rangaswamee in Vadapalani for Astrology, Horoscope, Numerology, Nameology, Vaasthu, Marriage Matching and Parikaaram @ Remedy",
   keywords = [
     "Best Astrologer in Chennai",
     "Best Astrologer in Vadapalani",

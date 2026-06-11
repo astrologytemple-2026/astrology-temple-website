@@ -30,6 +30,8 @@ export default function App() {
     { url: "https://www.youtube.com/watch?v=RmMpeMiLd04&list=PLXoiyvGD4QuMUWFgJXvqJEsC6mLhoTxnP", thumbVid: "RmMpeMiLd04" },
     { url: "https://www.youtube.com/watch?v=UjsIB1HvuCU&list=PLXoiyvGD4QuPL_8kMGLJ7aKD60F7d7Z5t", thumbVid: "UjsIB1HvuCU" },
     { url: "https://www.youtube.com/watch?v=1omhcoC_itM&list=PLXoiyvGD4QuMvEAbLniZzeT3H97ycxcZw", thumbVid: "1omhcoC_itM" },
+    { url: "http://youtube.com/watch?v=E_pwLBLFY7s", thumbVid: "E_pwLBLFY7s" },
+    { url: "https://www.youtube.com/watch?v=GeSQlv-UV0M&list=PLXoiyvGD4QuOizqXcv3PN91_SopuM5p5W", thumbVid: "GeSQlv-UV0M" },
   ];
 
   useEffect(() => {
@@ -83,7 +85,7 @@ export default function App() {
 
       <SEOHeader
         title="Astrologer Ravi Rangaswamee Chennai,Online Astrologer, Astrology Temple"
-        description="Consult Chennai's leading Astrologer Ravi Rangaswamee in Vadapalani for accurate 120 Years Dasaa Bhukthi Antharam Charts, Horoscope, Numerology, Vaasthu, and precise Parikaaram remedies."
+        description="Consult Chennai's leading Astrologer Ravi Rangaswamee in Vadapalani for Astrology, Horoscope, Numerology, Nameology, Vaasthu, Marriage Matching and Parikaaram @ RemedyAstrology, Horoscope, Numerology, Nameology, Vaasthu, Marriage Matching and Parikaaram @ Remedy"
         keywords={["astrologer in chennai", "best astrologer in vadapalani", "astrology consultation in chennai", "free astrology software", "horoscope reading", "vaasthu", "numerology", "parikaaram"]}
         faqs={schemaFAQs}
       />
@@ -110,6 +112,85 @@ export default function App() {
                 <p className="text-slate-700 text-base md:text-lg leading-relaxed font-sans font-medium px-2">
                   For all the Horoscopes which are Created Using Computer, Thirukkanitham, Vaakkiyam & All Other Panchangams in Practice, Accurate Current 360--&gt;365[365.25]366 Days?! Dasaa Bhukthi Antharam Chart for 120 Years From Date of Birth,Time & Horoscope Dasaa Yrs-Ms-Ds-Hrs:Ms:Ss Balance. Multi Lingual. 16 A4 pages.. Contact : +91 9942684099 Thanks.. All the best.
                 </p>
+              </div>
+            ) : currentPath === '/author' ? (
+              <div className="text-left max-w-4xl mx-auto space-y-8 pt-8 pb-16">
+                <div className="text-center mb-10">
+                  <h2 className="text-3xl font-bold text-indigo-950 font-cinzel mb-4">Author's Library</h2>
+                  <p className="text-slate-600 max-w-2xl mx-auto">Written by N.Ravi Rangaswamee.</p>
+                </div>
+
+                {/* Book Item 1 */}
+                <div className="bg-white/80 backdrop-blur-sm p-6 rounded-2xl border border-indigo-100 flex flex-col md:flex-row items-start gap-8 shadow-sm hover:shadow-md transition-shadow">
+                  <div className="w-full md:w-48 shrink-0">
+                    <img
+                      src="/JothidamPuthiyaPaarvaiyil.jpeg"
+                      alt="Jothidam PuthiyaPaarvaiyil"
+                      className="w-full h-auto object-cover rounded-xl shadow-md border border-slate-200"
+                    />
+                  </div>
+                  <div className="flex flex-col gap-4 flex-grow">
+                    <h3 className="text-xl font-bold text-slate-800">Jothidam Puthiya Paarvaiyil</h3>
+                    <p className="text-slate-700 text-sm leading-relaxed font-medium">
+                      Jothidam Puthiya Parvaiyil Astrology Research & Reform Book..
+                    </p>
+                    <div className="mt-2 flex flex-wrap gap-3">
+                      <a
+                        href="https://books.nakkheeran.in/product/%E0%AE%9C%E0%AF%8B%E0%AE%A4%E0%AE%BF%E0%AE%9F%E0%AE%AE%E0%AF%8D-%E0%AE%AA%E0%AF%81%E0%AE%A4%E0%AE%BF%E0%AE%AF-%E0%AE%AA%E0%AE%BE%E0%AE%B0%E0%AF%8D%E0%AE%B5%E0%AF%88%E0%AE%AF%E0%AE%BF%E0%AE%B2%E0%AF%8D/"
+                        target="_blank"
+                        rel="noreferrer"
+                        className="inline-flex items-center justify-center gap-2 px-6 py-3 bg-indigo-950 hover:bg-slate-900 text-white rounded-lg text-xs font-bold uppercase tracking-wider shadow-md hover:shadow-indigo-950/20 transition-all cursor-pointer"
+                      >
+                        Buy Book
+                      </a>
+                    </div>
+                  </div>
+                </div>
+
+                <div className="bg-white/80 backdrop-blur-sm p-6 rounded-2xl border border-indigo-100 flex flex-col md:flex-row items-start gap-8 shadow-sm hover:shadow-md transition-shadow">
+                  <div className="w-full md:w-48 shrink-0">
+                    <img
+                      src="/Thirunageshwaram.jpeg"
+                      alt="Thirunageshwaram"
+                      className="w-full h-auto object-cover rounded-xl shadow-md border border-slate-200"
+                    />
+                  </div>
+                  <div className="flex flex-col gap-4 flex-grow">
+                    <h3 className="text-xl font-bold text-slate-800">திருநாகேஸ்வரம் கோயில் கல்வெட்டு செய்திகள் ஆய்வு நூல்</h3>
+                    <p className="text-slate-700 text-sm leading-relaxed font-medium">
+                      Tirunageswaram Kovil Kalvettu Seithigal Aaivu Nool ||  திருநாகேஸ்வரம் மத நல்லிணக்கக் கல்வெட்டு செய்திகள் Tirunageswaram Religious harmony Kalvettu Seithigal Author. N. Rengasamy @ N. Ravi Rangaswamee  நன்று.. நன்றி..
+                    </p>
+                    <div className="mt-2 flex flex-wrap gap-3">
+                      <a
+                        href="https://www.tnarch.gov.in/flipbook/Thirunageswaram/mobile/index.html"
+                        target="_blank"
+                        rel="noreferrer"
+                        className="inline-flex items-center justify-center gap-2 px-6 py-3 bg-indigo-950 hover:bg-slate-900 text-white rounded-lg text-xs font-bold uppercase tracking-wider shadow-md hover:shadow-indigo-950/20 transition-all cursor-pointer"
+                      >
+                        View Book
+                      </a>
+                      <a
+                        href="https://www.tnarch.gov.in/Library%20BOOk%20PDF/Thirunageswaram.pdf"
+                        target="_blank"
+                        rel="noreferrer"
+                        className="inline-flex items-center justify-center gap-2 px-6 py-3 bg-indigo-950 hover:bg-slate-900 text-white rounded-lg text-xs font-bold uppercase tracking-wider shadow-md hover:shadow-indigo-950/20 transition-all cursor-pointer"
+                      >
+                        View Book
+                      </a>
+                      <a
+                        href="https://drive.google.com/file/d/1Nd5bCx7_sFeCMY7YHeDbWvWDFTKzTEtu/view?usp=sharing"
+                        target="_blank"
+                        rel="noreferrer"
+                        className="inline-flex items-center justify-center gap-2 px-6 py-3 bg-indigo-950 hover:bg-slate-900 text-white rounded-lg text-xs font-bold uppercase tracking-wider shadow-md hover:shadow-indigo-950/20 transition-all cursor-pointer"
+                      >
+                        View Book
+                      </a>
+                    </div>
+                  </div>
+                </div>
+
+                {/* You can copy and paste the Book Item block above to add more books later */}
+
               </div>
             ) : (
               <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 items-start">
@@ -161,7 +242,7 @@ export default function App() {
                     </div>
 
                     <p className="font-bold text-[#5E005E]">
-                      தவறு.. கம்ப்யூட்டர் ஜாதக தசா இருப்பு <br className="md:hidden" /> வரு - மாத- நாள் & தொடர் தசாபுத்தி தேதிகளும் தவறு.. எனவே, நீங்கள் பிறந்த நட்சத்திரத்தின் 'ஆதி அந்த' மொத்த நேரத்தை கணக்கிலெடுத்துக் கொண்டு மிகச்சரியான தசா இருப்பு <br className="hidden md:block" /> வரு - மாத- நாள்- <br className="md:hidden" /> மணி: நிமிடம்: வினாடி கணக்கிட்டு <br className="hidden md:block" /> <br className="md:hidden" /> 120 ஆண்டுகளுக்கு மிகச்சரியான <br className="md:hidden" /> 360-&gt;365[365.25]366 days?! <br className="hidden md:block" /> நடப்பு தசாபுத்தி அந்தர அட்டவணை ரூ.700, 16 A4 Pages.. <br className="md:hidden" /> Multi Lingual..<br className="hidden md:block" /> பெற Contact : +91 9942684099
+                      தவறு.. கம்ப்யூட்டர் ஜாதக தசா இருப்பு <br className="md:hidden" /> வரு - மாத- நாள் & தொடர் தசாபுத்தி தேதிகளும் தவறு.. எனவே, நீங்கள் பிறந்த நட்சத்திரத்தின் 'ஆதி அந்த' மொத்த நேரத்தை கணக்கிலெடுத்துக் கொண்டு மிகச்சரியான தசா இருப்பு <br className="hidden md:block" /> வரு - மாத- நாள்- <br className="md:hidden" /> மணி: நிமிடம்: வினாடி கணக்கிட்டு <br className="hidden md:block" /> <br className="md:hidden" /> 120 ஆண்டுகளுக்கு மிகச்சரியான <br className="md:hidden" /> 360-&gt;365[365.25]366 days?! <br className="hidden md:block" /> நடப்பு தசாபுத்தி அந்தர அட்டவணை ரூ.700, 16 A4 Pages.. <br className="md:hidden" /> Multi Lingual..<br className="hidden md:block" /> Contact : +91 9942684099
                     </p>
 
                     <p className="font-bold text-[#5E005E]">
