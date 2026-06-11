@@ -1,20 +1,21 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Astrology Temple
 
-# Run and deploy your AI Studio app
+Welcome to the Astrology Temple web application. This project serves as the digital front door for Astrologer N.Ravi Rangaswamee's consultations in Vadapalani, Chennai.
 
-This contains everything you need to run your app locally.
+## Features
+- Fully responsive modern design built with React and Vite.
+- High-performance, statically generated components for ultimate SEO.
+- Direct booking and contact links via WhatsApp.
+- Fully integrated JSON-LD schema for Local Business and FAQ rich snippets.
 
-View your app in AI Studio: https://ai.studio/apps/1f539e63-09e7-426b-a277-b73189f4a2c1
+## Local Development
 
-## Run Locally
+To run this project locally:
 
-**Prerequisites:**  Node.js
+1. **Install dependencies:** `npm install`
+2. **Start the development server:** `npm run dev`
+3. **Build for production:** `npm run build`
 
+## Deployment
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+This application is configured for seamless deployment on Vercel. Simply import the repository and deploy using the default Vite settings.
