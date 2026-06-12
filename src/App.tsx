@@ -156,9 +156,9 @@ export default function App() {
                     />
                   </div>
                   <div className="flex flex-col gap-4 flex-grow">
-                    <h3 className="text-xl font-bold text-slate-800">திருநாகேஸ்வரம் கோயில் கல்வெட்டு செய்திகள் ஆய்வு நூல்</h3>
+                    <h3 className="text-xl font-bold text-slate-800">திருநாகேஸ்வரம் கோயில் கல்வெட்டுச் செய்திகள் ஆய்வு நூல்</h3>
                     <p className="text-slate-700 text-sm leading-relaxed font-medium">
-                      Tirunageswaram Kovil Kalvettu Seithigal Aaivu Nool ||  திருநாகேஸ்வரம் மத நல்லிணக்கக் கல்வெட்டு செய்திகள் Tirunageswaram Religious harmony Kalvettu Seithigal Author. N. Rengasamy @ N. Ravi Rangaswamee  நன்று.. நன்றி..
+                      Tirunageswaram Kovil Kalvettu Seithigal Aaivu Nool Author. N. Rengasamy @ N. Ravi Rangaswamee  நன்று.. நன்றி..
                     </p>
                     <div className="mt-2 flex flex-wrap gap-3">
                       <a
@@ -177,13 +177,20 @@ export default function App() {
                       >
                         View Book
                       </a>
+                    </div>
+
+                    <h3 className="text-xl font-bold text-slate-800 mt-2">திருநாகேஸ்வரம் மத நல்லிணக்கக் கல்வெட்டுச் செய்திகள் Tirunageswaram Religious harmony Kalvettu Seithigal</h3>
+                    <p className="text-slate-700 text-sm leading-relaxed font-medium">
+                      Author N. Rengasamy @ N. Ravi Rangaswamee  நன்று.. நன்றி..
+                    </p>
+                    <div className="mt-2 flex flex-wrap gap-3">
                       <a
                         href="https://drive.google.com/file/d/1Nd5bCx7_sFeCMY7YHeDbWvWDFTKzTEtu/view?usp=sharing"
                         target="_blank"
                         rel="noreferrer"
                         className="inline-flex items-center justify-center gap-2 px-6 py-3 bg-indigo-950 hover:bg-slate-900 text-white rounded-lg text-xs font-bold uppercase tracking-wider shadow-md hover:shadow-indigo-950/20 transition-all cursor-pointer"
                       >
-                        View Book
+                        Read
                       </a>
                     </div>
                   </div>
@@ -242,7 +249,7 @@ export default function App() {
                     </div>
 
                     <p className="font-bold text-[#5E005E]">
-                      தவறு.. கம்ப்யூட்டர் ஜாதக தசா இருப்பு <br className="md:hidden" /> வரு - மாத- நாள் & தொடர் தசாபுத்தி தேதிகளும் தவறு.. எனவே, நீங்கள் பிறந்த நட்சத்திரத்தின் 'ஆதி அந்த' மொத்த நேரத்தை கணக்கிலெடுத்துக் கொண்டு மிகச்சரியான தசா இருப்பு <br className="hidden md:block" /> வரு - மாத- நாள்- <br className="md:hidden" /> மணி: நிமிடம்: வினாடி கணக்கிட்டு <br className="hidden md:block" /> <br className="md:hidden" /> 120 ஆண்டுகளுக்கு மிகச்சரியான <br className="md:hidden" /> 360-&gt;365[365.25]366 days?! <br className="hidden md:block" /> நடப்பு தசாபுத்தி அந்தர அட்டவணை ரூ.700, 16 A4 Pages.. <br className="md:hidden" /> Multi Lingual..<br className="hidden md:block" /> Contact : +91 9942684099
+                      தவறு.. கம்ப்யூட்டர் ஜாதக தசா இருப்பு <br className="md:hidden" /> வரு - மாத- நாள் & தொடர் தசாபுத்தி தேதிகளும் தவறு.. எனவே, நீங்கள் பிறந்த நட்சத்திரத்தின் 'ஆதி அந்த' மொத்த நேரத்தைக் கணக்கிலெடுத்துக் கொண்டு மிகச்சரியான தசா இருப்பு <br className="hidden md:block" /> வரு - மாத- நாள்- <br className="md:hidden" /> மணி: நிமிடம்: வினாடி கணக்கிட்டு <br className="hidden md:block" /> <br className="md:hidden" /> 120 ஆண்டுகளுக்கு மிகச்சரியான <br className="md:hidden" /> 360-&gt;365[365.25]366 days?! <br className="hidden md:block" /> நடப்பு தசாபுத்தி அந்தர அட்டவணை ரூ.700, 16 A4 Pages.. <br className="md:hidden" /> Multi Lingual..<br className="hidden md:block" /> Contact : +91 9942684099
                     </p>
 
                     <p className="font-bold text-[#5E005E]">
