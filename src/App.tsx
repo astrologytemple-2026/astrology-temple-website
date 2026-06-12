@@ -211,7 +211,7 @@ export default function App() {
                     <p className="font-bold text-[#7D0000] tracking-wider capitalize">
                       Astrologer N.Ravi Rangaswamee., <br className="md:hidden" /> M.A., PG.D.E.A.,<br className="hidden md:block" />
                       <br className="md:hidden" /> Astrological Compatibility Research, Training & Prediction Professional..<br className="hidden md:block" />
-                      Astrology, Horoscope, Numerology, Nameology, Vaasthu, <br className="md:hidden" /> Marriage Matching,<br className="hidden md:block" /> Parikaaram @ Remedy<br className="hidden md:block" />
+                      Astrology, Horoscope, Numerology, Nameology, Vaasthu, <br className="md:hidden" /> Marriage Matching,<br className="hidden md:block" /> Parikaaram @ Remedy <br className="hidden md:block" /> <br className="md:hidden" />
                       Accurate Astrology Calculations and Predictions. Updated Astrology.<br className="hidden md:block" /> <br className="md:hidden" /> Reformed Astrology. +91 9942684099, <span className="lowercase">astrologytemple@gmail.com</span>
                     </p>
 
