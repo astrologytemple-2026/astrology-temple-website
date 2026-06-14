@@ -47,15 +47,13 @@ export default function Header() {
       label: "Consultations",
       href: "#services",
       submenus: [
-        { label: "Astrology", href: "#services" },
-        { label: "Horoscope", href: "#services" },
-        { label: "Numerology", href: "#services" },
-        { label: "Nameology", href: "#services" },
-        { label: "Vaasthu", href: "#services" },
-        { label: "Marriage Matching", href: "#services" },
-        { label: "Parikaaram @ Remedy", href: "#services" },
-        { label: "Scriptology", href: "#services" },
-        { label: "Phonology", href: "#services" }
+        { label: "Astrology / Horoscope", href: "/astrology-horoscope" },
+        { label: "Numerology / Nameology / Phonology / Scriptology", href: "/numerology" },
+        { label: "Vaasthu", href: "/vaasthu" },
+        { label: "Marriage Matching", href: "/marriage-matching" },
+        { label: "Parikaaram @ Remedy", href: "#" },
+        { label: "New Born Baby", href: "/new-born-baby" },
+        { label: "Auspicious Date Selections", href: "/auspicious-date-selections" }
       ]
     },
     { id: "menu3", label: "Free Software", href: "/software" },
@@ -66,7 +64,7 @@ export default function Header() {
       icon: <Youtube className="w-4 h-4" />,
       className: "text-[#FF0000] hover:text-[#CC0000] font-black"
     },
-    { id: "menu5", label: "Free Panchangam", href: "https://youtu.be/nkuhjHEvuW8" },
+    { id: "menu5", label: "Free Panchangam", href: "/free-panchangam" },
     { id: "menu6", label: "Devotional Songs", href: "https://www.youtube.com/watch?v=nEDbHnYsKSY&list=PLXoiyvGD4QuPL-waGa63YgMmVH9uDP7LZ" },
     { id: "menu7", label: "Author", href: "/author" }
   ];
