@@ -177,7 +177,7 @@ export default function Header() {
                         key={idx}
                         href={sub.href}
                         onClick={() => setIsMobileMenuOpen(false)}
-                        className="block text-[10px] uppercase tracking-widest text-slate-400 hover:text-primary"
+                        className="block text-xs font-semibold uppercase tracking-widest text-slate-600 hover:text-primary"
                       >
                         {sub.label}
                       </a>

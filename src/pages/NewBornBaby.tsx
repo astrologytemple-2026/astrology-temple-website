@@ -34,7 +34,7 @@ export default function NewBornBaby() {
 
         <div className="bg-rose-50/40 p-6 rounded-2xl border border-rose-100/50 space-y-4">
           <p>
-            <span className="font-bold text-indigo-900">Vanakkam..</span> I Will Explain present - Future Dasaa Bhukthi Antharam Match - Comparison.. <br className="hidden md:block" /> <br className="md:hidden" /> Compatibility Analysis Prediction For Horoscope Planets Position.. Kotcharam.. &amp; Parikaaram Reffer.. <br className="hidden md:block" /> <br className="md:hidden" /> Consulting Time Minimum 1hr, Full prepaid for Appointment Confirmation @ In Person / Phone Consultation
+            <span className="font-bold text-indigo-900">Vanakkam..</span> I Will Explain present - Future Dasaa Bhukthi Antharam Match - Comparison.. <br className="hidden md:block" /> <br className="md:hidden" /> Compatibility Analysis Prediction For Horoscope Planets Position.. Kotcharam.. &amp; Parikaaram Reffer..
           </p>
         </div>
         <div className="bg-violet-50/40 p-6 rounded-2xl border border-violet-100/50 space-y-4">
