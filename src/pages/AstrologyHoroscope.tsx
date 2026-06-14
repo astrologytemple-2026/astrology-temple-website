@@ -3,11 +3,11 @@ import { Youtube } from 'lucide-react';
 
 export default function AstrologyHoroscope() {
   return (
-    <div className="text-left max-w-4xl mx-auto space-y-8 pt-8 pb-16 px-4 font-sans text-slate-800">
-      <div className="text-center mb-10">
-        <h2 className="text-3xl font-bold text-indigo-950 font-cinzel mb-4">Astrology / Horoscope</h2>
+    <div className="text-left max-w-4xl mx-auto space-y-6 pt-2 pb-16 px-4 font-sans text-slate-800">
+      <div className="text-center mb-4">
+        <h2 className="text-3xl font-bold text-indigo-950 font-cinzel mb-2">Astrology / Horoscope</h2>
+        <h3 className="font-bold text-center">Astrologer Ravi Rangaswamee.,M.A.,PG.D.E.A.,  + 91 99426 84099, Chennai,Tamil Nadu, India,<br className="hidden md:block" />  Online Astrologer,  Astrology Temple </h3>
       </div>
-      <h3 className="font-bold text-center">Astrologer Ravi Rangaswamee.,M.A.,PG.D.E.A.,  + 91 99426 84099, Chennai,Tamil Nadu, India,<br className="hidden md:block" />  Online Astrologer,  Astrology Temple </h3>
 
       <div className="space-y-6 text-sm leading-relaxed font-medium">
         <div className="bg-indigo-50/40 p-6 rounded-2xl border border-indigo-100/50 space-y-4">
