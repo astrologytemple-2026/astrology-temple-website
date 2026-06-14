@@ -21,6 +21,9 @@ export default function Vaasthu() {
       <div className="bg-amber-50/50 p-6 rounded-2xl border border-amber-200/50 space-y-4 text-sm font-medium">
         <p>
           <strong className="text-indigo-950 block mb-2 text-base">Payment Details:</strong>
+          <p className="text-green-700 font-semibold text-base mb-2">
+            Full prepaid for Appointment Confirmation @ In Person / Phone Consultation.
+          </p>
           Im available in UPI Pay @+91 9942684099 astrologytemple@gmail.com &amp; RAVI RANGASWAMEE, INDIAN BANK, Savings a/c No: 0481945502., IFSCcode:IDIB000V001, Vadapalani Branch, Chennai - 600026. India.
         </p>
         <p className="text-blue-700 font-semibold text-base border-l-4 border-blue-500 pl-3">

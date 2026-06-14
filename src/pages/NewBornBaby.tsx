@@ -12,11 +12,34 @@ export default function NewBornBaby() {
       <div className="space-y-6 text-sm leading-relaxed font-medium">
         <div className="bg-indigo-50/40 p-6 rounded-2xl border border-indigo-100/50">
           <p>
-            Two Service In One Fees For Newly Current Birth Child <br className="hidden md:block" /> <br className="md:hidden" />
+            Two Service In One Fees For New Born Baby <br className="hidden md:block" /> <br className="md:hidden" />
             புதிதாகப் பிறந்த குழந்தைக்கு ஒரே கட்டணத்தில் இரண்டு சேவை.. <br className="hidden md:block" /> <br className="md:hidden" />
             horoscope preparation, prediction Explanation and Name selection.. <br className="hidden md:block" /> <br className="md:hidden" />
             ஜாதகம் தயாரித்தல், கணிப்பு மற்றும் பெயர் தேர்வு.. <br className="hidden md:block" /> <br className="md:hidden" />
             INRs @@@@/- full prepaid..
+          </p>
+        </div>
+
+        <div className="bg-emerald-50/40 p-6 rounded-2xl border border-emerald-100/50 space-y-4">
+          <p>
+            <span className="font-bold text-indigo-900 text-sm">I Will Give PDF of</span> <br />
+            1] New computerized Horoscope Single Page, <br className="hidden md:block" /> <br className="md:hidden" />
+            2] More than 35 pages with general predictions.. <br className="hidden md:block" /> <br className="md:hidden" />
+            3] Manually Calculated ( based on your birth star - begin and finish ) <br className="hidden md:block" /> <br className="md:hidden" />
+            Accurate Current 360--&gt;365[365.25]366 Days?!..Dasaa Bhukthi Antharam Chart for 120 years from Birth Date, Time and Dasaa Years-Months-Days-Hrs-Mints-Seconds Balance.. <br className="hidden md:block" /> <br className="md:hidden" />
+            Multi Lingual.16 A4 pages. Sample pdf: <a href="https://drive.google.com/file/d/1ZyQHq9J2QEGffedkcsCJIVBKybZ9kHxe/view?usp=sharing" target="_blank" rel="noreferrer" className="text-xs text-blue-600 hover:text-blue-800 underline ml-1">Click Here to View</a> <br className="hidden md:block" /> <br className="md:hidden" />
+            First and Only.. Created by :Ravi rangaswamee.,M.A.,PG.D.E.A.,
+          </p>
+        </div>
+
+        <div className="bg-rose-50/40 p-6 rounded-2xl border border-rose-100/50 space-y-4">
+          <p>
+            <span className="font-bold text-indigo-900">Vanakkam..</span> I Will Explain present - Future Dasaa Bhukthi Antharam Match - Comparison.. <br className="hidden md:block" /> <br className="md:hidden" /> Compatibility Analysis Prediction For Horoscope Planets Position.. Kotcharam.. &amp; Parikaaram Reffer.. <br className="hidden md:block" /> <br className="md:hidden" /> Consulting Time Minimum 1hr, Full prepaid for Appointment Confirmation @ In Person / Phone Consultation
+          </p>
+        </div>
+        <div className="bg-violet-50/40 p-6 rounded-2xl border border-violet-100/50 space-y-4">
+          <p>
+            Relevant Lucky Name's of Individual's are suggested Based on Birth star, Planetary Position of the Horoscope , Numerology, Astro-Numerology, Nameology, Scriptology, Phonology and Meaning of the Name.
           </p>
         </div>
       </div>
@@ -24,6 +47,9 @@ export default function NewBornBaby() {
       <div className="bg-amber-50/50 p-6 rounded-2xl border border-amber-200/50 space-y-4 text-sm font-medium">
         <p>
           <strong className="text-indigo-950 block mb-2 text-base">Payment Details:</strong>
+          <p className="text-green-700 font-semibold text-base mb-2">
+            Full prepaid for Appointment Confirmation @ In Person / Phone Consultation.
+          </p>
           Im available in UPI Pay @+91 9942684099 astrologytemple@gmail.com &amp; RAVI RANGASWAMEE, INDIAN BANK, Savings a/c No: 0481945502., IFSCcode:IDIB000V001, Vadapalani Branch, Chennai - 600026. India.
         </p>
         <p className="text-blue-700 font-semibold text-base border-l-4 border-blue-500 pl-3">
