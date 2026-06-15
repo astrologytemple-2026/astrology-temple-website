@@ -7,7 +7,7 @@ export default function Vaasthu() {
       <div className="text-center mb-4">
         <h2 className="text-3xl font-bold text-indigo-950 font-cinzel mb-2">Vaasthu Consultations</h2>
       </div>
-      <h3 className="font-bold text-center">Astrologer Ravi Rangaswamee.,M.A.,PG.D.E.A.,  + 91 99426 84099, Chennai,Tamil Nadu, India,<br className="hidden md:block" />  Online Astrologer,  Astrology Temple </h3>
+      <h3 className="font-bold text-center">Astrologer Ravi Rangaswamee.,M.A.,PG.D.E.A.,  + 91 99426 84099, Chennai,Tamil Nadu, India,<br className="hidden md:block" />  Online Astrologer,  Astrology Temple <br className="hidden md:block" /> <br className="md:hidden" /> <span className="text-blue-600">House, Plot, Flat, Office/Company , New Construction, Land</span></h3>
 
       <div className="space-y-6 text-sm leading-relaxed font-medium">
         <div className="bg-indigo-50/40 p-6 rounded-2xl border border-indigo-100/50">

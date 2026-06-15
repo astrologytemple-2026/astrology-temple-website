@@ -11,12 +11,12 @@ export default function Numerology() {
 
       <div className="space-y-6 text-sm leading-relaxed font-medium">
         <div className="bg-indigo-50/40 p-6 rounded-2xl border border-indigo-100/50">
-          <p>
+          <p> <span className="font-bold text-indigo-900 text-l">Commercial's : </span> <br className="hidden md:block" /> <br className="md:hidden" />
             <span className="font-bold text-indigo-900">Vanakkam..</span> Lucky Name's for Industries and Concerns are also suggested <br className="hidden md:block" /> <br className="md:hidden" /> [ Based on Birth star, Planetary Position of the Horoscope , <br className="hidden md:block" /> <br className="md:hidden" /> Numerology, Astro-Numerology, Nameology, Scriptology, Phonology and Meaning of the Name ]. <br className="hidden md:block" /> <br className="md:hidden" /> Single Person Horoscope @ Full Prepaid Fees INRs @@@@/-
           </p>
         </div>
         <div className="bg-emerald-50/40 p-6 rounded-2xl border border-emerald-100/50">
-          <p>
+          <p> <span className="font-bold text-indigo-900 text-l">Individual's : </span> <br className="hidden md:block" /> <br className="md:hidden" />
             <span className="font-bold text-indigo-900">Vanakkam..</span> Relevant Lucky Name's of Individual's are suggested <br className="hidden md:block" /> <br className="md:hidden" /> Based on Birth star, Planetary Position of the Horoscope , <br className="hidden md:block" /> <br className="md:hidden" /> Numerology, Astro-Numerology, Nameology, Scriptology, Phonology and Meaning of the Name. <br className="hidden md:block" /> <br className="md:hidden" /> Single Person Horoscope @ Full Prepaid Fees INRs @@@@/-
           </p>
         </div>

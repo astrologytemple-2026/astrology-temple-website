@@ -11,7 +11,7 @@ export default function AstrologyHoroscope() {
 
       <div className="space-y-6 text-sm leading-relaxed font-medium">
         <div className="bg-indigo-50/40 p-6 rounded-2xl border border-indigo-100/50 space-y-4">
-          <p>
+          <p><span className="font-bold text-indigo-900 text-l">Consultation's : </span> <br className="hidden md:block" /> <br className="md:hidden" />
             <span className="font-bold text-indigo-900">Vanakkam..</span> New, Fresh and First Time Consultation Fees INRs @@@@/Each Horoscope @Full Prepaid for Horoscope Preparation<br className="hidden md:block" /> <br className="md:hidden" /> With Micro Updated Version and Appointment Confirmation..<br className="hidden md:block" /> <br className="md:hidden" /> I Will Explain Past-present-Future Dasaa Bhukthi Antharam Match- Comparison.. <br className="md:hidden" /> Compatibility Analysis Prediction For Horoscope Planets Position..<br className="hidden md:block" /> <br className="md:hidden" /> Kotcharam.. &amp; Parikaaram Reffer.. Consulting Time Minimum 1:15hr+,.
           </p>
           <p>
@@ -29,7 +29,7 @@ export default function AstrologyHoroscope() {
         </div>
 
         <div className="bg-purple-50/40 p-6 rounded-2xl border border-purple-100/50 space-y-4">
-          <p>
+          <p><span className="font-bold text-indigo-900 text-l">New Horoscope Preparation's : </span> <br className="hidden md:block" /> <br className="md:hidden" />
             <span className="font-bold text-indigo-900">Vanakkam..</span> Please Send me.. Name, Gender, Birth Date, Tme and Place, If known Raasi and Natchaththiram.<br className="hidden md:block" /> <br className="md:hidden" /> I Will Explain Past-Present-Future Dasaa Bhukthi Antharam Match- Comparison.. <br className="hidden md:block" /> <br className="md:hidden" /> Compatibility Analysis Prediction For Horoscope Planets Position.. Kotcharam.. &amp; Parikaaram Reffer.. <br className="hidden md:block" /> <br className="md:hidden" /> Consulting Time Minimum 1:15hr+,. Fresh &amp; First Time Consultation Fees.. INRs @@@@/ Each Horoscope <br className="hidden md:block" /> <br className="md:hidden" /> @Full Prepaid for Horoscope Preparation With Micro Updated Version and Appointment Confirmation..
           </p>
           <p>
