@@ -34,7 +34,7 @@ export default function Software() {
         </div>
         <div className="bg-rose-50/40 p-6 rounded-2xl border border-emerald-100/50">
           <p>
-            அட்டவணை தயார் செய்யும் வழிமுறைகள்:
+            <span className="font-bold text-indigo-900 text-sm"> அட்டவணை தயார் செய்யும் வழிமுறைகள்: </span> <br className="hidden md:block" /> <br className="md:hidden" />
 
             “120 ஆண்டுகளுக்கான தசாபுத்தி அந்தர அட்டவணை மென்பொருளிலிருந்து”,
             உங்களுக்கான 120 ஆண்டுகளுக்கான தசா புத்தி அந்தர அட்டவணை தயார் செய்ய “செயலியின் முகப்புப் பக்கத்தில் அடையாளம் காட்டப்பட்டுள்ள இடங்களில்”.. <br className="hidden md:block" /> <br className="md:hidden" /> 1. பெயர் எழுதவும், <br className="hidden md:block" /> <br className="md:hidden" /> 2. பிறந்த தேதி, மாதம், வருடம் தேர்வு செய்யவும் அல்லது டைப் செய்யவும் மற்றும் பிறந்த ம்ணி: நிமிடம்: வினாடி தேர்வு செய்யவும் அல்லது டைப் செய்யவும். <br className="hidden md:block" /> <br className="md:hidden" /> 3. பிறந்த ஊர் எழுதவும். <br className="hidden md:block" /> <br className="md:hidden" /> 4. பிறந்த ஜாதக தசா பெயர் தேர்வு செய்யவும் <br className="hidden md:block" /> <br className="md:hidden" /> 5. தசா இருப்பு வருடம், மாதம், நாட்கள், மணி: நிமிடம்: வினாடி தேர்வு செய்யவும் அல்லது டைப் செய்யவும். <br className="hidden md:block" /> <br className="md:hidden" /> 6. Generate’ஐ கிளிக் செய்தால் தமிழ் & ஆங்கிலம் இணைந்த மொழிகளில்.. 16 A4 பக்கங்களில்.. அட்டவணை தயார் ஆகும்; நீங்கள் விரும்பும் கோப்புகளில் சேமித்துக்கொள்ளலாம்.   <br className="hidden md:block" /> <br className="md:hidden" /> முதன்முதலாக உருவாக்கம் நா. ரவி ரங்கசுவாமி.,M.A., PG.D.E.A., +91 99426 84099 நன்று.. நன்றி..      </p>
