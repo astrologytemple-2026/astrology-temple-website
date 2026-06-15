@@ -10,7 +10,6 @@ import AstrologyHoroscope from "./pages/AstrologyHoroscope";
 import Numerology from "./pages/Numerology";
 import Vaasthu from "./pages/Vaasthu";
 import MarriageMatching from "./pages/MarriageMatching";
-import ParikaaramRemedy from "./pages/ParikaaramRemedy";
 import NewBornBaby from "./pages/NewBornBaby";
 import AuspiciousDate from "./pages/AuspiciousDate";
 import FreePanchangam from "./pages/FreePanchangam";
@@ -84,8 +83,6 @@ export default function App() {
               <Vaasthu />
             ) : currentPath === '/marriage-matching' ? (
               <MarriageMatching />
-            ) : currentPath === '/parikaaram-remedy' ? (
-              <ParikaaramRemedy />
             ) : currentPath === '/new-born-baby' ? (
               <NewBornBaby />
             ) : currentPath === '/auspicious-date-selections' ? (

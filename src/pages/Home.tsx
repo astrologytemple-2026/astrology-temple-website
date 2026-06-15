@@ -85,18 +85,6 @@ export default function Home() {
           <p className="font-bold text-[#5E005E]">
             I Will Give PDF of <br className="md:hidden" /> <br className="hidden md:block" /> 1] New computerized Horoscope  Single Page, <br className="md:hidden" /> <br className="hidden md:block" /> 2]. More than 33 pages with general predictions..<br className="md:hidden" /> <br className="hidden md:block" /> 3] Manually Calculated ( based on your birth star - begin and finish ) <br className="md:hidden" /> <br className="hidden md:block" /> Accurate Current 360--&gt;365[365.25]366 Days?!.. <br className="md:hidden" /> <br className="hidden md:block" /> Dasaa Bhukthi Antharam Chart for 120 years from Birth Date, Time and Dasaa Years-Months-Days-Hrs:Mints:Seconds Balance.. Rs.700,<br className="md:hidden" /> <br className="hidden md:block" /> +91 9942684099, <span className="lowercase">astrologytemple@gmail.com</span>
           </p>
-
-          <div className="pt-2 font-bold text-[#000BD1]">
-            © First and Only.. Free Astrology Reform Software:<br className="hidden md:block" />
-            <a href="https://drive.google.com/file/d/12s7ToCwGMd59wAj1se6Uz8yoklvqcax7/view?usp=sharing" target="_blank" rel="noreferrer"
-              className="mt-3 inline-flex items-center justify-center gap-2 px-6 py-4 bg-indigo-950 hover:bg-slate-900 text-white rounded-xl text-xs font-bold uppercase tracking-wider shadow-lg hover:shadow-indigo-950/20 transition-all font-keepcalm cursor-pointer">
-              Free Download
-            </a>
-          </div>
-
-          <p className="font-bold text-[#857000]">
-            For all the Horoscopes which are Created Using Computer, Thirukkanitham, Vaakkiyam & All Other Panchangams in Practice, Accurate Current <br className="md:hidden" /> 360--&gt;365[365.25]366 Days?! Dasaa Bhukthi Antharam Chart for 120 Years From Date of Birth,Time & Horoscope Dasaa Yrs-Ms-Ds-Hrs:Ms:Ss Balance. Multi Lingual. 16 A4 pages.. +91 9942684099, <span className="lowercase">astrologytemple@gmail.com</span> <br className="hidden md:block" /> Thanks.. All the best.
-          </p>
         </div>
       </div>
 

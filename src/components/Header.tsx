@@ -51,7 +51,6 @@ export default function Header() {
         { label: "Numerology / Nameology / Phonology / Scriptology", href: "/numerology" },
         { label: "Vaasthu", href: "/vaasthu" },
         { label: "Marriage Matching", href: "/marriage-matching" },
-        { label: "Parikaaram @ Remedy", href: "#" },
         { label: "New Born Baby", href: "/new-born-baby" },
         { label: "Auspicious Date Selections", href: "/auspicious-date-selections" }
       ]
