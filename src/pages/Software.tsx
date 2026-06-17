@@ -52,7 +52,22 @@ export default function Software() {
             Created By N. Ravi Rangaswamee.,  M.A., PG.D.E.A.,   | +91 99426 84099..
             Thanks.. All the Best..</p>
         </div>
-
+        <div className="bg-yellow-50/40 p-6 rounded-2xl border border-emerald-100/50">
+          <p className="text-[#5E005E]"> <br className="hidden md:block" /> <br className="md:hidden" />
+            “120 ஆண்டுகள் தசாபுத்தி அந்தர அட்டவணை மென்பொருளை”  தாங்களே இலவசமாக பதிவிறக்கம் செய்துகொள்ளலாம்.
+            <br className="hidden md:block" /> <br className="md:hidden" /> ஆனால், பதிவிறக்கம் செய்வது  சம்பந்தமாக கூடுதல் விபரங்களுக்காக தொடர்புகொண்டு ஆலோசனை பெறுவதற்கும்; ஆன்லைன் செயல்முறையின் மூலம் பதிவிறக்கம் செய்து தருவதற்கும் உரிய சேவைக்கட்டணம் பெறப்படும் / வழங்கவேண்டும். </p>
+          <p className="text-[#5E005E]"> <br className="hidden md:block" /> <br className="md:hidden" />
+            The 120 Years Dasaa Bhukthi Antharam Chart Software can be downloaded for free by yourself.
+            <br className="hidden md:block" /> <br className="md:hidden" /> However, a fee will be charged for consulting software expert regarding additional details about the download, as well as for the service of downloading the file via the online process. </p>
+          <p className="text-[#AD1900]"> <br className="hidden md:block" /> <br className="md:hidden" />
+            மென்பொருள் இலவசம். ஆனால், வேலை நேரத்தில் மேற்கொள்ளப்படும் தொழில்நுட்ப ஆலோசனை மற்றும் பணிகளுக்கு இலவச சேவை எதுவும் இல்லை.  </p>
+          <p className="text-[#AD1900]"> <br className="hidden md:block" /> <br className="md:hidden" />
+            The software is free.
+            But, there is no free service for technicals consultation and work performed during working hours. </p>
+          <p className="text-[#00782B]"> <br className="hidden md:block" /> <br className="md:hidden" />
+            Software developed by Eepsitha Solutions - Contact ‘Software Professionalist’ K. Sathishkumar +91 8072567958, <span className="lowercase">sathishkk@gmail.com</span>
+            காப்புரிமை / Copyright. astrologytemple.com. All rights reserved. அனைத்து உரிமைகளும் பாதுகாக்கப்பட்டவை.<br className="hidden md:block" /> <br className="md:hidden" /> Thanks.. All The Best.. </p>
+        </div>
       </div>
     </div>
   );
