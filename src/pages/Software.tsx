@@ -53,7 +53,7 @@ export default function Software() {
             Thanks.. All the Best..</p>
         </div>
         <div className="bg-yellow-50/40 p-6 rounded-2xl border border-emerald-100/50">
-          <p className="text-[#5E005E]"> <br className="hidden md:block" /> <br className="md:hidden" />
+          <p className="text-[#5E005E]"><span className="font-bold text-indigo-900 text-sm"> குறிப்பு / Info : </span> <br className="hidden md:block" /> <br className="md:hidden" />
             “120 ஆண்டுகள் தசாபுத்தி அந்தர அட்டவணை மென்பொருளை”  தாங்களே இலவசமாக பதிவிறக்கம் செய்துகொள்ளலாம்.
             <br className="hidden md:block" /> <br className="md:hidden" /> ஆனால், பதிவிறக்கம் செய்வது  சம்பந்தமாக கூடுதல் விபரங்களுக்காக தொடர்புகொண்டு ஆலோசனை பெறுவதற்கும்; ஆன்லைன் செயல்முறையின் மூலம் பதிவிறக்கம் செய்து தருவதற்கும் உரிய சேவைக்கட்டணம் பெறப்படும் / வழங்கவேண்டும். </p>
           <p className="text-[#5E005E]"> <br className="hidden md:block" /> <br className="md:hidden" />
@@ -63,9 +63,9 @@ export default function Software() {
             மென்பொருள் இலவசம். ஆனால், வேலை நேரத்தில் மேற்கொள்ளப்படும் தொழில்நுட்ப ஆலோசனை மற்றும் பணிகளுக்கு இலவச சேவை எதுவும் இல்லை.  </p>
           <p className="text-[#AD1900]"> <br className="hidden md:block" /> <br className="md:hidden" />
             The software is free.
-            But, there is no free service for technicals consultation and work performed during working hours. </p>
+            But, there is no free service for technical consultation and work performed during working hours. </p>
           <p className="text-[#00782B]"> <br className="hidden md:block" /> <br className="md:hidden" />
-            Software developed by Eepsitha Solutions - Contact ‘Software Professionalist’ K. Sathishkumar +91 8072567958, <span className="lowercase">sathishkk@gmail.com</span>
+            Software developed by Eepsitha Solutions - Contact ‘Software Professionalist’ K. Sathishkumar +91 8072567958, <span className="lowercase">sathishkk@gmail.com</span>  <br className="hidden md:block" /> <br className="md:hidden" />
             காப்புரிமை / Copyright. astrologytemple.com. All rights reserved. அனைத்து உரிமைகளும் பாதுகாக்கப்பட்டவை.<br className="hidden md:block" /> <br className="md:hidden" /> Thanks.. All The Best.. </p>
         </div>
       </div>
