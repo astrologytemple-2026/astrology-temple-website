@@ -57,6 +57,16 @@ export default function SEOHeader({
     setMetaTag("name", "keywords", keywords.join(", "));
     setMetaTag("name", "robots", "index, follow");
 
+    // 2.5 Canonical Link
+    let canonicalLink = document.querySelector('link[rel="canonical"]');
+    if (!canonicalLink) {
+      canonicalLink = document.createElement("link");
+      canonicalLink.setAttribute("rel", "canonical");
+      document.head.appendChild(canonicalLink);
+    }
+    // Always use the non-www secure version for canonical
+    canonicalLink.setAttribute("href", `https://astrologytemple.com${window.location.pathname}`);
+
     // 3. Open Graph Metas for Social Link Previews
     setMetaTag("property", "og:title", title);
     setMetaTag("property", "og:description", description);
